@@ -1,4 +1,4 @@
-# **JellyMap - Jelly Comb keyboard map**
+# **JellyMap - Jelly Comb Keyboard Map**
 ### **AutoHotKey script that makes Jelly Comb WGJP-019B bluetooth keyboard fit for work under windows**
 
 In itself it is a small and nice keyboard but it provides some cumbersome keymapping.  
